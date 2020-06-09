@@ -1,0 +1,3 @@
+bignum = "persona"
+fakeness = "real
+super = "onetime"
